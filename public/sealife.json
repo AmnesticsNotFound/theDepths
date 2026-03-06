@@ -1,0 +1,664 @@
+{
+    "epipelagic": 
+        [
+            [
+                {
+                "name":"Manatee",
+                "img":"./images/manatee.png",
+                "size": "min(14vh, 15vw)",
+                "displacementy": "",
+                "displacementLeft": "",
+                "displacementRight": "",
+                "link": "https://en.wikipedia.org/wiki/Manatee"
+                },
+                {
+                    "name":"Green Moray",
+                    "img":"./images/moray.png",
+                    "size": "min(18vh, 25vw)",
+                    "displacementy": "min(20vw, 30vh)",
+                    "displacementLeft": "",
+                    "displacementRight": "",
+                    "link": "https://en.wikipedia.org/wiki/Green_moray"
+                },
+                
+                {
+                    "name":"Green Sea Turtle",
+                    "img":"./images/turtle.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "min(10vw, 17vh)",
+                    "displacementLeft": "",
+                    "displacementRight": "",
+                    "link": "https://en.wikipedia.org/wiki/Green_sea_turtle"
+                },
+                {
+                    "name":"Parrotfish",
+                    "img":"./images/parrotfish.png",
+                    "size": "min(7vh, 12vw)",
+                    "displacementy": "min(2vw, 4vh)",
+                    "displacementLeft": "",
+                    "displacementRight": "",
+                    "link": "https://en.wikipedia.org/wiki/Parrotfish"
+                }
+                
+        ],
+        [
+            {
+                "name":"Sawfish",
+                "img":"./images/sawfish.png",
+                "size": "min(40vh, 45vw)",
+                "displacementy": "min(7vw, 7vh)",
+                "displacementLeft": "",
+                "displacementRight": "",
+                "link": "https://en.wikipedia.org/wiki/Sawfish"
+            }
+        ],
+
+            [
+                {
+                    "name":"King Scallop",
+                    "img":"./images/scallop.png",
+                    "size": "min(4vh, 8vw)",
+                    "displacementy": "min(15vh, 20vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Pecten_maximus"
+                },
+                {
+                    "name":"BlueStripe Snapper",
+                    "img":"./images/bluestripe.png",
+                    "size": "min(5vh, 10vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Common_bluestripe_snapper"
+                },
+                {
+                    "name":"King Crab",
+                    "img":"./images/kingCrab.png",
+                    "size": "min(10vh, 13vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/King_crab"
+                },
+                {
+                    "name":"Bottlenose Dolphin",
+                    "img":"./images/bottlenose.png",
+                    "size": "min(27vh, 32vw)",
+                    "displacementy": "min(15vh, 20vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Bottlenose_dolphin"
+                }
+            ],
+            [
+                {
+                    "name":"Banded Sea Crait",
+                    "img":"./images/bandedSnake.png",
+                    "size": "min(15vh, 20vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Yellow-lipped_sea_krait"
+                }, 
+                {
+                    "name":"Barrel jellyfish",
+                    "img":"./images/barrelJellyfish.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Rhizostoma_pulmo"
+                }
+                
+            ],
+            [
+                {
+                    "name":"Beluga Whale",
+                    "img":"./images/beluga.png",
+                    "size": "min(35vh, 40vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Beluga_whale"
+                },
+                {
+                    "name":"Goliath Grouper",
+                    "img":"./images/grouper.png",
+                    "size": "min(18vh, 23vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Atlantic_goliath_grouper"
+                }
+            ],
+
+            [
+                {
+                    "name":"Right Whale",
+                    "img":"./images/rightWhale.png",
+                    "size": "min(83vh, 70vw)",
+                    "displacementy": "min(12vh, 16vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Right_whale"
+                },
+                {
+                    "name":"Chambered Nautilus",
+                    "img":"./images/nautilus.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "min(10vh, 13vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Chambered_nautilus"
+                }
+            
+            
+            ],
+            [
+                {
+                    "name":"Mahi Mahi",
+                    "img":"./images/mahi.png",
+                    "size": "min(15vh, 20vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Mahi-mahi"
+                },
+                {
+                    "name":"Lionfish",
+                    "img":"./images/lionfish.png",
+                    "size": "min(8vh, 15vw)",
+                    "displacementy": "min(20vh, 20vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Lionfish"
+                },
+
+                {
+                    "name":"Atlantic Salmon",
+                    "img":"./images/salmon.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "min(11vh, 11vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Atlantic_salmon"
+                },
+                {
+                    "name":"Harbor Seal",
+                    "img":"./images/harborSeal.png",
+                    "size": "min(18vh, 22vw)",
+                    "displacementy": "min(25vh, 25vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Harbor_seal"
+                }
+            ],
+            [
+                {
+                    "name":"Great White Shark",
+                    "img":"./images/greatWhite.png",
+                    "size": "min(40vh, 45vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Great_white_shark"
+                },
+                {
+                    "name":"Cuttlefish",
+                    "img":"./images/cuttlefish.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Cuttlefish"
+                }
+        
+                
+            ],
+            [
+                {
+                    "name":"Great Hammerhead Shark",
+                    "img":"./images/hammerhead.png",
+                    "size": "min(32vh, 40vw)",
+                    "displacementy": "-20%",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Great_hammerhead"
+                },
+                {
+                    "name":"Giant Manta Tay",
+                    "img":"./images/mantaRay.png",
+                    "size": "min(65vh, 72vw)",
+                    "displacementy": "-15%",
+                    "displacementLeft": "",
+                    "displacementRight": "min(5%,200px)",
+                    "link": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray"
+
+                }
+            ]
+        ],
+        "mesopelagic":
+        [
+            [
+                {
+                    "name":"Blanket Octopus",
+                    "img":"./images/blanketOctopus.png",
+                    "size": "min(13.5vh, 16vw)",
+                    "displacementy": "min(10vh, 10vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Blanket_octopus"
+                },
+                {
+                    "name":"Orca",
+                    "img":"./images/orca2.png",
+                    "size": "min(55vh, 61vw)",
+                    "displacementy": "min(70vh, 80vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Orca"
+                },
+                {
+                    "name":"Barracuda",
+                    "img":"./images/barracuda.png",
+                    "size": "min(13vh, 16vw)",
+                    "displacementy": "min(150vh, 160vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Barracuda"
+                },
+                {
+                    "name":"Shrimp",
+                    "img":"./images/shrimp.png",
+                    "size": "min(3vh, 6vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "min(10vh, 10vw)",
+                    "link": "https://en.wikipedia.org/wiki/Shrimp"
+                }
+
+            ],
+
+            [
+                {
+                    "name":"Oarfish",
+                    "img":"./images/oarfish.png",
+                    "size": "min(40vh, 45vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Oarfish"
+                }
+            ],
+            [
+                {
+                    "name":"Swordfish",
+                    "img":"./images/swordfish.png",
+                    "size": "min(27vh, 32vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Swordfish"
+                },
+                {
+                    "name":"Bluefin Tuna",
+                    "img":"./images/bluefin.png",
+                    "size": "min(27vh, 32vw)",
+                    "displacementy": "min(60vh, 70vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna"
+                },
+                {
+                    "name":"Clymene Dolphin",
+                    "img":"./images/clymene.png",
+                    "size": "min(25vh, 30vw)",
+                    "displacementy": "min(130vh, 140vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "min(20vw, 30vh)",
+                    "link": "https://en.wikipedia.org/wiki/Clymene_dolphin"
+                },
+                {
+                    "name":"Moonfish",
+                    "img":"./images/moonfish.png",
+                    "size": "min(25vh, 30vw)",
+                    "displacementy": "min(180vh, 190vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "min(30vw, 40vh)",
+                    "link": "https://en.wikipedia.org/wiki/Opah"
+                }
+
+            ],
+            [
+                {
+                    "name":"Hatchetfish",
+                    "img":"./images/hatchetfish.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "min(100vh, 110vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Marine_hatchetfish"
+                },
+                {
+                    "name":"Giant Squid",
+                    "img":"./images/giantSquid.png",
+                    "size": "min(20vh, 25vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Giant_squid"
+                },
+                {
+                    "name":"Lanternfish",
+                    "img":"./images/lanternfish.png",
+                    "size": "min(8vh, 13vw)",
+                    "displacementy": "min(130vh, 140vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Lanternfish"
+                },
+                {
+                    "name":"Leopard Seal",
+                    "img":"./images/leopardSeal.png",
+                    "size": "min(29vh, 35vw)",
+                    "displacementy": "min(60vh, 70vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Leopard_seal"
+                }
+            ],
+
+            [
+                {
+                    "name":"Sea Angel",
+                    "img":"./images/seaangel.png",
+                    "size": "min(8vh, 13vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Sea_angel"
+                },
+                {
+                    "name":"Giant Isopod",
+                    "img":"./images/isopod.png",
+                    "size": "min(8vh, 13vw)",
+                    "displacementy": "min(200vh, 215vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Giant_isopod"
+                },
+                {
+                    "name":"Bristlemouth",
+                    "img":"./images/bristlemouth.png",
+                    "size": "min(8vh, 13vw)",
+                    "displacementy": "min(400vh, 415vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Gonostomatidae"
+                }
+
+            ]
+
+        ],
+        "bathypelagic": [
+            [
+                {
+                    "name":"Elephant Seal",
+                    "img":"./images/elephantSeal.png",
+                    "size": "min(35vh, 35vw)",
+                    "displacementy": "min(100vh, 110vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Elephant_seal"
+                },
+                {
+                    "name":"Viperfish",
+                    "img":"./images/viperfish.png",
+                    "size": "min(10vh, 16vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Viperfish"
+                },
+                {
+                    "name":"Gulper Eel",
+                    "img":"./images/gulperEel.png",
+                    "size": "min(11vh, 18vw)",
+                    "displacementy": "min(450vh, 465vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Pelican_eel"
+                },
+                {
+                    "name":"Dreamer Anglerfish",
+                    "img":"./images/dreamer.png",
+                    "size": "min(11vh, 16vw)",
+                    "displacementy": "min(250vh, 265vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Anglerfish"
+                }
+            ],
+            [
+                {
+                    "name":"Sperm Whale",
+                    "img":"./images/spermWhale.png",
+                    "size": "min(450vh, 470vw)",
+                    "displacementy": "",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Sperm_whale"
+                },
+                {
+                    "name":"Blobfish",
+                    "img":"./images/blobfish.png",
+                    "size": "min(13vh, 19vw)",
+                    "displacementy": "min(450vh, 470vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "min(12vh, 12vw)",
+                    "link": "https://en.wikipedia.org/wiki/Blob_sculpin"
+                }
+            ],
+            [
+                {
+                    "name":"Phantom Jelly",
+                    "img":"./images/phantomJelly.png",
+                    "size": "min(35vh, 40vw)",
+                    "displacementy": "min(450vh, 470vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Stygiomedusa"
+                },
+                {
+                    "name":"Goblin Shark",
+                    "img":"./images/goblin.png",
+                    "size": "min(25vh, 33vw)",
+                    "displacementy": "min(1000vh, 1050vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Goblin_shark"
+                },
+                {
+                    "name":"Greenland Shark",
+                    "img":"./images/greenland.png",
+                    "size": "min(37vh, 45vw)",
+                    "displacementy": "min(2100vh, 2100vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "min(28vh, 28vw)",
+                    "link": "https://en.wikipedia.org/wiki/Greenland_shark"
+                }
+            ],
+            [
+                {
+                    "name":"Dragonfish",
+                    "img":"./images/dragonfish.png",
+                    "size": "min(10vh, 15vw)",
+                    "displacementy": "min(1600vh, 1700vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Stomiidae"
+                },
+                {
+                    "name":"Dumbo Octopus",
+                    "img":"./images/dumbo.png",
+                    "size": "min(13vh, 19vw)",
+                    "displacementy": "min(1400vh, 1500vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Grimpoteuthis"
+                    
+                },
+                {
+                    "name":"Venus Girdle",
+                    "img":"./images/venus.png",
+                    "size": "min(15vh, 20vw)",
+                    "displacementy": "min(4300vh, 4400vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Venus_girdle"
+                },
+                {
+                    "name":"Vampire Squid",
+                    "img":"./images/vampireSquid.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(2500vh, 2600vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Vampire_squid"
+                }
+            ]
+        ],
+        "abyssopelagic": [
+            [
+                {
+                    "name":"Yeti Crab",
+                    "img":"./images/yetiCrab.png",
+                    "size": "min(13vh, 19vw)",
+                    "displacementy": "min(20vh, 25vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Kiwa_(crustacean)"
+                    
+                },
+                 {
+                    "name":"Megamouth Shark",
+                    "img":"./images/megamouth.png",
+                    "size": "min(35vh, 44vw)",
+                    "displacementy": "min(1900vh, 2000vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Megamouth_shark"
+                 },
+                 {
+                    "name":"Atolla Jelly",
+                    "img":"./images/atollaJelly.png",
+                    "size": "min(7vh, 14vw)",
+                    "displacementy": "min(3000vh, 3200vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Atolla_jellyfish"
+                 }
+            ],
+            [
+                {
+                    "name":"Fangtooth",
+                    "img":"./images/fangtooth.png",
+                    "size": "min(8vh, 16vw)",
+                    "displacementy": "min(3500vh, 3700vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Fangtooth"
+                    
+                },
+                
+                 {
+                    "name":"Abyssal Grenadier",
+                    "img":"./images/grenadier.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(4100vh, 4300vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Abyssal_grenadier"
+                 }
+                 
+            ]
+        ],
+        "hadalpelagic": [
+            [
+                {
+                    "name":"Alicella Gigantea",
+                    "img":"./images/alicella.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(3500vh, 3600vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Alicella"
+                },
+                
+                {
+                    "name":"Benthic Cucumber",
+                    "img":"./images/benthicCucumber.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(5400vh, 5600vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Sea_cucumber"
+                },
+                {
+                    "name":"Snailfish",
+                    "img":"./images/snailfish.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(2000vh, 2200vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Snailfish"
+                }
+
+            ],
+            [
+                {
+                    "name":"Cusk Eel",
+                    "img":"./images/cuskEel.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(1600vh, 1800vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Cusk-eel"
+                },
+                
+                {
+                    "name":"Tomopterid Worm",
+                    "img":"./images/tomopterid.png",
+                    "size": "min(12vh, 24vw)",
+                    "displacementy": "min(3000vh, 3200vw)",
+                    "displacementLeft": "",
+                    "displacementRight": "", 
+                    "link": "https://en.wikipedia.org/wiki/Tomopteridae"
+                }
+            ],
+            [
+                {
+                   "name":"We are nearing the end of our journey",
+                   "displacementy": "min(2500vh, 2600vw)"
+
+                },
+                {
+                    "name":"The bottom of the world welcomes you with open spaces",
+                    "displacementy": "min(2800vh, 2900vw)"
+                 },
+                 {
+                    "name":"You have reached the—",
+                    "displacementy": "min(3300vh, 3400vw)"
+                 },
+                 {
+                    "name":"Challenger Deep",
+                    "displacementy": "min(3730vh, 3800vw)"
+                 }
+                 
+            ]
+        ]
+    
+
+}
+

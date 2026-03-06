@@ -1,0 +1,286 @@
+/*@import url('https://fonts.googleapis.com/css?family=Calligraffitti|Open+Sans');*/
+
+/*html {
+  overflow: hidden;
+}*/
+#root {
+  width:100%;
+  margin: 0;
+  padding:0;
+  text-align: center;
+  overflow-x: hidden;
+  line-height:2rem;
+  
+}
+
+
+html, body {
+  height: 100%;
+  background-color: #D0F0FF;
+  font-size: min(1vw, 25px);
+  
+}
+
+@media(aspect-ratio < 1) {
+ 
+  html, body {
+    font-size: min(1vh, 25px);
+    
+    
+  }
+  
+  #root {
+    scrollbar-width: none;
+  }
+ 
+
+}
+body {
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: 'Calligraffitti';
+  font-size: min(5vw, 40px);
+}
+h4 {
+  color:white;
+}
+#trieste h5{
+  color:grey;
+}
+
+#subtitle {
+  font-style: oblique;
+  color: rgb(201, 199, 195);
+  position:relative;
+  top:100vh;
+}
+
+
+
+.LightWaves {
+  animation: lightwaves 2s infinite;
+  position: relative;
+}
+
+@keyframes lightwaves {
+    0%,100% { transform: translate(0,0); }
+    25%     { transform: translate(5px,5px); transform: scale(1.05); }
+    50%     { transform: translate(25px, 5px); }
+    75%     { transform: translate(12px,10px); transform: scale(1.05); }
+}
+
+.DarkWaves {
+  animation: darkwaves 3.8s infinite;
+}
+
+@keyframes darkwaves {
+    0%,100% { transform: translate(0,0); }
+    25%     { transform: translate(25px, 5px); transform: scale(1.05); }
+    50%     { transform: translate(12px,10px); }
+    75%     { transform: translate(5px,5px); }
+}
+
+.WhiteWaves {
+  animation: whitewaves 4s alternate ease infinite;
+}
+
+@keyframes whitewaves {
+    0% { transform: translate(0,25px); }
+    100%     { transform: translate(25px,35px); }
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+#mainBody {
+  width:100%;
+  height:min-content;
+  
+  
+  padding:0px;
+  justify-content: center;
+  align-items: center;
+}
+
+#sea {
+  margin:0px;
+  padding:0px;
+  display: block;
+  
+  
+}
+
+.layers {
+  width:100%;
+  margin:0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border:1px solid black;
+  
+}
+
+.layers h1 {
+  color: white;
+}
+.layers h2 {
+  color: white;
+}
+#epipelagic {
+  
+  height:300vh;
+  
+  background: #0084ff;
+  background: linear-gradient(1deg,rgba(2, 92, 176, 1) 34%, rgba(21, 110, 194, 1) 51%, rgba(71, 153, 230, 1) 75%, rgb(74 173 255) 100%)/*linear-gradient(to top,rgba(0, 132, 255, 1) 0%, rgba(74, 173, 255, 1) 45%), linear-gradient(to right,rgba(74, 173, 255, 0.98) 0%, rgba(124, 185, 235, 1) 25%, rgba(74, 173, 255, 1) 75%, rgba(124, 185, 235, 1) 100%)*/;
+  
+}
+#epipelagic h2 {
+  color:black;
+  
+}
+@font-face {
+  font-family:'Twilight';
+  src:url('../public/twilight zone.TTF') format('truetype');
+}
+
+
+#mesopelagic h1 {
+  font-family: 'Twilight';
+}
+
+.sealifeDiv {
+  
+  
+  display:flex;
+  justify-content: space-between;
+  flex-direction: column;
+  
+  /*display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;*/
+  
+  width:95%;
+  height:100%;
+}
+
+.row {
+  display:flex;
+  justify-content: space-evenly;
+  align-items:center;
+}
+.hadalText {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items:center;
+}
+
+#trieste {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.animalContainer {
+  width:fit-content;
+  /*max-width: 33%;*/
+  height:fit-content;
+  position: relative;
+  padding: 0px;
+  
+        
+}
+.animalContainer img {
+  max-width:1200px;
+}
+.animalContainer img, .animalContainer h2 {
+ margin:0;
+}
+.animalContainer h2 {
+  font-size: min(2vh, 35px);
+}
+#mesopelagic {
+  
+  height:1500vh;
+  
+ 
+
+  background: #003154;
+  background: linear-gradient(1deg,rgb(0, 0, 0) 19%, rgb(0, 28, 55) 50%, rgba(0, 53, 102, 1) 70%,  rgba(2, 92, 176, 1) 100%)/*linear-gradient(360deg,rgb(0, 26, 44) 0%, rgba(0, 132, 255, 1) 45%)*/;
+}
+
+#bathypelagic {
+  
+  height:6000vh;
+  
+ 
+  background-color:rgb(0, 0, 0);
+  background: /*linear-gradient(360deg,rgba(0, 0, 0, 1) 0%, rgb(0 26 44) 45%)*/;
+}
+
+#abyssopelagic {
+  
+  height:5000vh;
+  
+ 
+  background-color:rgba(0, 0, 0, 1);
+ 
+}
+
+#hadalpelagic {
+  
+  height:11470vh;
+  
+ 
+  background-color:rgba(0, 0, 0, 1);
+ 
+}
+
+
+.fade {
+  opacity: 1; /* Fully opaque by default (can be omitted as it's the default) */
+  transition: opacity 0.3s ease; /* Smooth transition effect */
+}
+
+.fade:hover, #trieste:hover {
+  opacity: 0.3; /* 30% opaque (70% transparent) on hover */
+}
+
